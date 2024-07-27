@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #96705B;
+}
+
+.homeBtns {
+  display: flex;
+  justify-content: space-around;
+  background-color: #AB8476;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #b5abab;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #d2d0d0;
+}
